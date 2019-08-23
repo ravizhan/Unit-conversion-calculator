@@ -1,2 +1,20 @@
-import computer.square
-computer.square_area(1)
+import change.area.cm2_dm2
+import change.area.dm2_m2
+import change.area.m2_ha
+import change.area.m2_km2
+import change.area.mm2_cm2
+import change.len.cm_dm
+import change.len.dm_m
+import change.len.m_km
+import change.len.mm_cm
+import change.len.nm_mm
+import change.len.pm_nm
+import change.speed.kms_kmh
+import change.speed.ms_kmh
+import change.speed.ms_kms
+import change.volume.cm3_dm3
+import change.volume.dm3_m3
+import change.volume.mm3_cm3
+import change.weight.g_kg
+import change.weight.kg_t
+import change.weight.mg_g
